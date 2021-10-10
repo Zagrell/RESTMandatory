@@ -20,7 +20,7 @@ public class SwaggerConfig {
     }
 
     public ApiInfo apiInfo() {
-        return new ApiInfoBuilder().title("Swagger API Docs").build();
+        return new ApiInfoBuilder().title("Things API").build();
     }
 
 }
